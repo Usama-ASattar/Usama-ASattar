@@ -20,7 +20,7 @@
 
 <hr>
 
-<p><strong>📂 Featured Repositories</strong></p>
+<p><strong>📂 Pinned Repositories</strong></p>
 
 
 <p align="center">
