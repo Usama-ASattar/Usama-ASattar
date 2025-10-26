@@ -24,27 +24,6 @@
 
 <p align="center">
   <a href="https://github.com/Usama-ASattar/plate-generator-system" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Usama-ASattar&repo=plate-generator-system&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color_
-
-
-<hr>
-
-<p><strong>🚀 About Me</strong></p>
-
-- 💻 Passionate about **building scalable applications** with **clean, maintainable architectures**  
-- ☁️ Exploring **Cloud Engineering**, **DevOps**, and **AI-driven development**  
-- 🧠 Constantly learning, teaching, and refining my craft  
-- 🤝 Open to **collaborations** and **open-source contributions** that make a difference  
-- ☕ Fun fact: Coffee + debugging = productivity mode activated  
-
-🌐 **Portfolio:** [usamaabdalsattar.com](https://www.usamaabdalsattar.com/)
-
-<hr>
-
-<p><strong>📂 Featured Repositories</strong></p>
-
-<p align="center">
-  <a href="https://github.com/Usama-ASattar/plate-generator-system" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Usama-ASattar&repo=plate-generator-system&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Plate Generator System" />
   </a>
   <a href="https://github.com/Usama-ASattar/portfolio" target="_blank">
@@ -120,4 +99,4 @@
 
 <p><strong>⭐ From</strong></p>
 
-<p><strong>[Usama A. Sattar](https://github.com/Usama-ASattar)</strong></p>
+**[Usama A. Sattar](https://github.com/Usama-ASattar)**
