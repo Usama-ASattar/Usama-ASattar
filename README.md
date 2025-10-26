@@ -22,10 +22,11 @@
 
 <p><strong>📂 Featured Repositories</strong></p>
 
-<a href="https://github.com/Usama-ASattar/portfolio" target="_blank">
+
+<p align="center">
+    <a href="https://github.com/Usama-ASattar/portfolio" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Usama-ASattar&repo=portfolio&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Portfolio Website" />
   </a>
-<p align="center">
   <a href="https://github.com/Usama-ASattar/plate-generator-system" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Usama-ASattar&repo=plate-generator-system&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Plate Generator System" />
   </a>
