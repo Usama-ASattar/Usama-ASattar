@@ -1,5 +1,10 @@
-<p align="center" style="font-size: 2em; font-weight: bold;">Hi there 👋 I'm Usama A. Sattar</p>
-<p align="center" style="font-size: 1.2em;">Software Engineer | Tech Explorer</p>
+<div align="center">
+
+<strong><font size="6">Hi there 👋 I'm Usama A. Sattar</font></strong><br>
+<font size="4">Software Engineer | Tech Explorer</font>
+
+</div>
+
 
 <hr>
 
