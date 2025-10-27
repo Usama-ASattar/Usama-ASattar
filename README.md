@@ -1,7 +1,7 @@
 <div align="center">
 
 <strong><font size="6">Hi there 👋 I'm Usama A. Sattar</font></strong><br>
-<font size="4">Software Engineer | Tech Explorer</font>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Frontend+Developer;Tech+Enthusiast" alt="Typing SVG" />
 
 </div>
 
